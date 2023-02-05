@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(
+    white,
+    rgb(125, 125, 233),
+    blueviolet,
+    red,
+    rgb(229, 68, 205),
+    grey,
+    black
+  );
+  /* color:; */
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 100px;
+  /* background-image: linear-gradient(green, red); */
+  color: white;
+}
+
+h2 {
+  color: white;
+}
